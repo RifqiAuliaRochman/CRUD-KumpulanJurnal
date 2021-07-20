@@ -1,0 +1,4 @@
+Rifqi_2021_1,2021,Rifqi,Mardiana M.Kom,Robot Sebagai Alternatif Pengiriman Barang
+Rifqi_2019_1,2019,Rifqi,Aditya S.Kom,Perancangan Sistem Informasi Deteksi Social Enginering
+Dobleh_2019_1,2019,Dobleh,Galandaru S.Kom,Gim Sebagai Alternatif Pendidikan
+Abdel_2018_1,2018,Abdel,Taufik P.hD,Pengaruh Organisasi Terhadap Pandangan Sosial
